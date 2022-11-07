@@ -68,7 +68,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Courses</a>
                 </li>
 
                 <li class="nav-item">
@@ -76,7 +76,7 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
+                <a target="_blank" class="nav-link" href="https://vardhaman.org/">Vardhaman</a>
                 </li>
 
                 <li class="nav-item">
@@ -88,7 +88,7 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
+                Search
                 </li>
 
                 {% include search-lunr.html %}
@@ -122,10 +122,10 @@ ga('send', 'pageview');
 <div class="main-content">
     {{ content }}
 </div>
-
+<!--
 {% if site.mailchimp-list %}
 <!-- Bottom Alert Bar
-================================================== -->
+================================================== --><!--
 <div class="alertbar">
 	<div class="container text-center">
 		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Imparting quality education to the global standards and envisages to address various societal needs.</span>
@@ -134,7 +134,7 @@ ga('send', 'pageview');
 {% endif %}
     
 </div>
-
+-->
 <!-- Categories Jumbotron
 ================================================== -->
 <!--div class="jumbotron fortags">
