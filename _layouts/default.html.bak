@@ -113,7 +113,7 @@ ga('send', 'pageview');
 <div class="mainheading">
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
-        {{ site.description }}
+        {{ site.title }}
     </p>
 </div>
 
