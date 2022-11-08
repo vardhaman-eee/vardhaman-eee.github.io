@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Basic Electrical and Electronics Engineering"
+title:  "A7205 - Basic Electrical and Electronics Engineering"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ 2022-2023, II-I Class ]
 image: assets/images/16.jpg
 ---
 
