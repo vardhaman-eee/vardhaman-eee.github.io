@@ -1,8 +1,8 @@
 # Site
 header: "Courses | EEE | VCE"
-name: "Department of Electrical and Electronics Engineering"
+name: "Department of EEE"
 title: "Vardhaman College of Engineering"
-description: "Department of Electricaland Electronics Engineering"
+description: "Department of EEE"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
