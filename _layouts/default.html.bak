@@ -86,11 +86,6 @@ ga('send', 'pageview');
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a>
                 </li-->
-
-                <li class="nav-item">
-                Search
-                </li>
-
                 {% include search-lunr.html %}
 
             </ul>
