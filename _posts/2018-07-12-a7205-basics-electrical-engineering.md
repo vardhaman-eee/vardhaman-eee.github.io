@@ -6,7 +6,7 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
 
- <a name="description">Objectives</a>
+# <a name="description">Objectives</a>
 
   Electrical Energy plays a significant role in day-to-day life of entire mankind. This course deals with the generation of power along with its economic aspects. It deals with the basic theory of various conventional power stations and the different components present in them. The course also helps the students to familiarize with different types of substations and its advantages and disadvantages. It also deals with the economic aspects of power system, power factor correction techniques and suitable pricing methods. 
 
@@ -22,7 +22,7 @@ A7205.3 Develop a layout and single line diagram for a given substation.
 
 A7205.4 Model a power system to reduce economic losses. 
 
-## <a name="syllabus">Syllabus</a>
+# <a name="syllabus">Syllabus</a>
 
 **Introduction:** Conventional Energy Sources and their availability, Non-ConventionalEnergy Sources and their availability, Environmental impact of conventional and Non-Conventional energy sources. Hydro Electric Power Plants - Site selection, Plant layout,various components, Types of turbines, Governor and speed regulation, Pumped storage,Small scale hydroelectric plants (mini and micro).
 
@@ -39,7 +39,7 @@ A7205.4 Model a power system to reduce economic losses.
 1. M. L. Soni, P. V. Gupta, U. S. Bhatnagar, A. Chakrabarti (2010), “A Text Book on Power System Engineering”, 2nd Edition, Dhanpat Rai & Co. Pvt. Ltd, New Delhi.
 2. C. L. Wadhwa (2010), “Generation, Distribution and Utilization of Electrical Energy”, 3rd Edition, New Age International (P) Limited, New Delhi.
 
-## <a name="references">Reference Books</a>
+# <a name="references">Reference Books</a>
 
 1. Leonard L. Grigsby (2012), “Electric Power Generation Transmission and Distribution, 3rd Edition, CRC press.
 2. J. B. Gupta (2010), “A Course in Power Systems”, 10th Edition, S. K. Kataria & Sons, New Delhi.
@@ -48,7 +48,7 @@ A7205.4 Model a power system to reduce economic losses.
 
 # Resources
 
-## <a name="lecturenotes">Lecture Notes</a>
+# <a name="lecturenotes">Lecture Notes</a>
 
 |1 | [Assignment # 1](link) | - | - |
 |1 | [Assignment # 2](link) | - | - |
@@ -61,7 +61,7 @@ A7205.4 Model a power system to reduce economic losses.
 
 Inform the instructor any time *prior* to the due date for an assignment that you wish to use a late day; you may then turn in the assignment up to 24 hours late. Multiple late days may be used on the same assignment. There are no partial late days; turning in an assignment 2 hours late or 20 hours late will both use 1 late day. Note that late days are intended to cover both normal circumstances (you simply want more time to work on the assignment) and exceptional circumstances. The late assignments will receive at most half credit.
 
-## <a name="aat">Alternate Assessments</a>
+# <a name="aat">Alternate Assessments</a>
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
@@ -70,7 +70,7 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 |1 | [Assignment # 3](link) | - | - |
 |1 | [Assignment # 4](link) | - | - |
 
-## <a name="cat">Continuous Assessment</a>
+# <a name="cat">Continuous Assessment</a>
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|

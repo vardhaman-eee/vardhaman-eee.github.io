@@ -6,11 +6,11 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
 
-# <a name="description">Objectives</a>
+ <a name="description">Objectives</a>
 
   Electrical Energy plays a significant role in day-to-day life of entire mankind. This course deals with the generation of power along with its economic aspects. It deals with the basic theory of various conventional power stations and the different components present in them. The course also helps the students to familiarize with different types of substations and its advantages and disadvantages. It also deals with the economic aspects of power system, power factor correction techniques and suitable pricing methods. 
 
-## <a name="outcomes">Course Outcomes</a>
+# <a name="outcomes">Course Outcomes</a>
 
 After the completion of the course, the student will be able to:
 
@@ -22,7 +22,7 @@ A7205.3 Develop a layout and single line diagram for a given substation.
 
 A7205.4 Model a power system to reduce economic losses. 
 
-# <a name="syllabus">Syllabus</a>
+## <a name="syllabus">Syllabus</a>
 
 **Introduction:** Conventional Energy Sources and their availability, Non-ConventionalEnergy Sources and their availability, Environmental impact of conventional and Non-Conventional energy sources. Hydro Electric Power Plants - Site selection, Plant layout,various components, Types of turbines, Governor and speed regulation, Pumped storage,Small scale hydroelectric plants (mini and micro).
 
