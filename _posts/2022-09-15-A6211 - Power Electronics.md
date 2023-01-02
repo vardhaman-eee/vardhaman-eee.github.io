@@ -4,6 +4,7 @@ title:  "A6211 - Power Electronics"
 author: ravivarman
 categories: [ 2022-2023, III-I Class ]
 image: assets/images/a6211.jpg
+featured: true
 ---
 # <a name="description">Objectives</a>
 
