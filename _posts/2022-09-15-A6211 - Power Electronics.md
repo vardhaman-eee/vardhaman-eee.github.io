@@ -57,7 +57,7 @@ A6211.5 Apply PWM techniques to enhance the performance of power electronic conv
 ## <a name="lecturenotes">Lecture Notes</a>
 
 1. Unit I [Download](#){:target="_blank" rel="noopener"}
-2. Unit II [Download](#){:target="_blank" rel="noopener"}
+2. Unit II [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Efgnz0_-aQRDuWhbpIXGt2YBcokARae_wk16CCKcEqbioA?e=yUISSU){:target="_blank" rel="noopener"}
 3. Unit III [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/ERHiwLi65nJNm_zIfc1AM6kBJ0ih3GJLuTIZMGuTXhNZvg?e=IvTS1C){:target="_blank" rel="noopener"}
 4. Unit IV [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/Edw22XQ5i3RAqjVJuYRPP34BZv7T1p2meGBVAyv3Znv4Yw?e=mv7d9O){:target="_blank" rel="noopener"}
 5. Unit V [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ravivarman_vardhaman_org/EY6wpkz6q9VMmv9z_A5JRXwBPgE1GGr8MeeIPj8lb81ojQ?e=EalMcF){:target="_blank" rel="noopener"}
