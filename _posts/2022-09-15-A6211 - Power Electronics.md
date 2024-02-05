@@ -72,8 +72,8 @@ Inform the instructor any time *prior* to the due date for an assignment that yo
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|1 | [Assignment # 1][Download](link){:target="_blank" rel="noopener"} |  |  |
-|2 | [Assignment # 2][Download](link){:target="_blank" rel="noopener"} |  |  |
+|1 | [Assignment # 1][Download](link){:target="_blank" rel="noopener"} | 20.10.2021 | 30.10.2021 |
+|2 | [Assignment # 2][Download](link){:target="_blank" rel="noopener"} | 20.12.2021 | 30.10.2021 |
 
 ## <a name="practice">Practice</a>
 
